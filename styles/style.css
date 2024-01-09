@@ -1,3 +1,25 @@
 .nav-1{
-    background-image: url();
+    background-image: url(../styles/Banner\ Image.png);
+    width: 1300px;
+    height: 600px;
+}
+
+.text-1{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text-2{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
 }
